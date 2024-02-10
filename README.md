@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maya-Sey
+- 👋 Hi, I’m @Maryama_Abdullahi
 - 👀 I’m interested in Web development and Cloud technology
 - 🎓 I hold a degree in Computer Engineering
 - 🌱 I’m currently learning AWS Cloud Practitioner
